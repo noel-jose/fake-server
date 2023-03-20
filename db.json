@@ -293,388 +293,315 @@
   ],
     "quizzes": [
     {
-      "id": 1,
-      "title": "QUIZ 13",
-      "desc": "description of quiz 13",
+      "id": "9656e244-1c25-4a5e-a4b1-2310e73f497a",
+      "title": "Tech Quiz",
+      "desc": "Put your knowledge about all things technology to the test with our 5 question quiz and have some nerdy fun in the process.\n\nBecause everything tech, from computers and the internet to software and big data, changes rapidly on a day-to-day basis, it’s now a must to stay up to date with the technology that dominates our modern day lives.",
       "questions": [
         {
-          "id": 1678875953736,
-          "title": "q5",
-          "type": "Single Select",
-          "options": [
-            {
-              "id": 1678962627562,
-              "value": "This is the anser",
-              "isCorrect": true
-            },
-            {
-              "id": 1678962633964,
-              "value": "THis is not the answer",
-              "isCorrect": false
-            }
-          ],
-          "correctAnswers": [
-            "This is the anser"
-          ]
-        },
-        {
-          "id": 1678854355011,
-          "title": "Q5",
+          "id": "8dd2280e-7832-463e-b31c-af0069287772",
+          "title": "Which of the companies manufacture chips",
           "type": "Multi Select",
           "options": [
             {
-              "id": 1678854361166,
-              "value": "Q2",
+              "id": 1679334482816,
+              "value": "Intel",
               "isCorrect": true
             },
             {
-              "id": 1678854372078,
-              "value": "Q3",
+              "id": 1679334488123,
+              "value": "Amd",
               "isCorrect": true
             },
             {
-              "id": 1678854375103,
-              "value": "Q4",
+              "id": 1679334494070,
+              "value": "McDowells",
               "isCorrect": false
             },
             {
-              "id": 1678854377895,
-              "value": "Q5",
+              "id": 1679334502793,
+              "value": "Snapdragon",
               "isCorrect": true
             }
           ],
           "correctAnswers": [
-            "Q2",
-            "Q3",
-            "Q5"
+            "Intel",
+            "Amd",
+            "Snapdragon"
           ]
         },
         {
-          "id": 1678726232854,
-          "title": "Which of the following is an SUV",
+          "id": "59290722-1257-4e4d-80c4-d624bb8125b5",
+          "title": "Number of bits used in IPV6 address",
+          "type": "Single Select",
+          "options": [
+            {
+              "id": 1679333365024,
+              "value": "32bit",
+              "isCorrect": false
+            },
+            {
+              "id": 1679333369071,
+              "value": "64bit",
+              "isCorrect": false
+            },
+            {
+              "id": 1679333373215,
+              "value": "128bit",
+              "isCorrect": true
+            },
+            {
+              "id": 1679333379379,
+              "value": "256bit",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswers": [
+            "128bit"
+          ]
+        },
+        {
+          "id": "70bbf001-c36b-4119-b517-cf3fd06ee0cc",
+          "title": "Which is the first search Engine in the world",
           "type": "Dropdown",
           "options": [
             {
-              "id": 1678681265991,
-              "value": "Maruti Alto",
+              "id": 1679333237762,
+              "value": "Google",
               "isCorrect": false
             },
             {
-              "id": 1678766352177,
-              "value": "Swift",
+              "id": 1679333240944,
+              "value": "Yahoo",
+              "isCorrect": false
+            },
+            {
+              "id": 1679333256185,
+              "value": "Archie",
               "isCorrect": true
             },
             {
-              "id": 1678961406866,
-              "value": "Tata Harrier",
-              "isCorrect": true
-            },
-            {
-              "id": 1678961412331,
-              "value": "Nano",
+              "id": 1679333259765,
+              "value": "Bing",
               "isCorrect": false
             }
           ],
           "correctAnswers": [
-            "Swift",
-            "Tata Harrier"
+            "Archie"
           ]
         },
         {
-          "id": 1678726223552,
-          "title": "Who is the father of India",
+          "id": "18047fc7-4097-4c38-bb53-712e561b785f",
+          "title": ".MOV' extension refers usually to what kind of file?",
           "type": "Single Select",
           "options": [
             {
-              "id": 1678961335172,
-              "value": "Jawaharlal Nehru",
+              "id": 1679333119738,
+              "value": "Image File",
               "isCorrect": false
             },
             {
-              "id": 1678961355356,
-              "value": "Indira Gandhi",
-              "isCorrect": false
-            },
-            {
-              "id": 1678961362428,
-              "value": "Mahatma Gandhi",
+              "id": 1679333126663,
+              "value": "Movie File",
               "isCorrect": true
             },
             {
-              "id": 1678961367972,
-              "value": "Narendra Modi",
+              "id": 1679333131771,
+              "value": "Audio File",
+              "isCorrect": false
+            },
+            {
+              "id": 1679333138230,
+              "value": "MS document file",
               "isCorrect": false
             }
           ],
           "correctAnswers": [
-            "Mahatma Gandhi"
-          ]
-        },
-        {
-          "id": 1678681259046,
-          "title": "Which of the following is an SUV",
-          "type": "Multi Select",
-          "options": [
-            {
-              "id": 1678681265991,
-              "value": "Maruti Alto",
-              "isCorrect": false
-            },
-            {
-              "id": 1678766352177,
-              "value": "Swift",
-              "isCorrect": true
-            },
-            {
-              "id": 1678961406866,
-              "value": "Tata Harrier",
-              "isCorrect": true
-            },
-            {
-              "id": 1678961412331,
-              "value": "Nano",
-              "isCorrect": false
-            }
-          ],
-          "correctAnswers": [
-            "Swift",
-            "Tata Harrier"
+            "Movie File"
           ]
         }
       ],
       "correctAnswers": [
         {
-          "id": 1678875953736,
+          "id": "8dd2280e-7832-463e-b31c-af0069287772",
           "correctAnswers": [
-            "This is the anser"
+            "Intel",
+            "Amd",
+            "Snapdragon"
           ]
         },
         {
-          "id": 1678854355011,
+          "id": "59290722-1257-4e4d-80c4-d624bb8125b5",
           "correctAnswers": [
-            "Q2",
-            "Q3",
-            "Q5"
+            "128bit"
           ]
         },
         {
-          "id": 1678726232854,
+          "id": "70bbf001-c36b-4119-b517-cf3fd06ee0cc",
           "correctAnswers": [
-            "Swift",
-            "Tata Harrier"
+            "Archie"
           ]
         },
         {
-          "id": 1678726223552,
+          "id": "18047fc7-4097-4c38-bb53-712e561b785f",
           "correctAnswers": [
-            "Mahatma Gandhi"
-          ]
-        },
-        {
-          "id": 1678681259046,
-          "correctAnswers": [
-            "Swift",
-            "Tata Harrier"
+            "Movie File"
           ]
         }
       ]
     },
     {
-      "id": 1678872506511,
-      "title": "New Quiz",
-      "desc": "This is a new Quiz",
+      "id": "b1a76533-f0b4-479f-a706-a15d876a6aee",
+      "title": "India Quiz",
+      "desc": "GK Questions and Answers on India and its States: Explore a few MCQs on India and its states and enhance your knowledge. This will arouse your interest and also help in the preparation of various competitive examinations, including UPSC, State PCS, IBPS, SBI, SCC, Railways, etc",
       "questions": [
         {
-          "id": 1678872972080,
-          "title": "Q4",
+          "id": "7ca709a8-3a3b-402f-8675-e8adfed3213a",
+          "title": "Which of these states are south indian states",
           "type": "Multi Select",
           "options": [
             {
-              "id": 1678872977689,
-              "value": "o1",
-              "isCorrect": false
-            },
-            {
-              "id": 1678872979812,
-              "value": "o2",
-              "isCorrect": false
-            },
-            {
-              "id": 1678872981749,
-              "value": "o3",
-              "isCorrect": false
-            },
-            {
-              "id": 1678872984710,
-              "value": "o4",
-              "isCorrect": false
-            },
-            {
-              "id": 1678872988645,
-              "value": "o5",
-              "isCorrect": true
-            }
-          ]
-        },
-        {
-          "id": 1678872868345,
-          "title": "Why this question",
-          "type": "Dropdown",
-          "options": [
-            {
-              "id": 1678872879145,
-              "option": "",
-              "isCorrect": true,
-              "value": "Option 2"
-            },
-            {
-              "id": 1678872883178,
-              "option": "",
-              "isCorrect": false,
-              "value": "Option 3"
-            },
-            {
-              "id": 1678872890213,
-              "option": "",
-              "isCorrect": false,
-              "value": "Option 1"
-            }
-          ]
-        },
-        {
-          "id": 1678872847084,
-          "title": "Q2",
-          "type": "Multi Select",
-          "options": [
-            {
-              "id": 1678872852500,
-              "option": "",
-              "isCorrect": false,
-              "value": "Option 1"
-            },
-            {
-              "id": 1678872858008,
-              "option": "",
-              "isCorrect": true,
-              "value": "Op2"
-            },
-            {
-              "id": 1678872861133,
-              "option": "",
-              "isCorrect": false,
-              "value": "op3"
-            }
-          ]
-        },
-        {
-          "questionId": 1678872493943,
-          "title": "Question",
-          "type": "Multi Select",
-          "options": []
-        }
-      ],
-      "correctAnswers": [
-        {
-          "id": 1678872972080
-        },
-        {
-          "id": 1678872868345
-        },
-        {
-          "id": 1678872847084
-        },
-        {}
-      ]
-    },
-    {
-      "id": 1678875386366,
-      "title": "When the quiz",
-      "desc": "Thisisthedescription",
-      "questions": [
-        {
-          "id": 1678875405105,
-          "title": "Quiz",
-          "type": "Multi Select",
-          "options": [
-            {
-              "id": 1678875411155,
-              "value": "!2",
-              "isCorrect": false
-            },
-            {
-              "id": 1678875413837,
-              "value": "32",
-              "isCorrect": false
-            },
-            {
-              "id": 1678875416266,
-              "value": "32",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "id": 1678875361261,
-          "title": "Heq",
-          "type": "Multi Select",
-          "options": [
-            {
-              "id": 1678875369266,
-              "value": "1",
-              "isCorrect": false
-            },
-            {
-              "id": 1678875371949,
-              "value": "2",
+              "id": 1679334975509,
+              "value": "Kerala",
               "isCorrect": true
             },
             {
-              "id": 1678875373952,
-              "value": "3",
+              "id": 1679334980162,
+              "value": "Delhi",
               "isCorrect": false
             },
             {
-              "id": 1678875378476,
-              "value": "4",
-              "isCorrect": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cf4cdabb-bec3-4709-88c4-79fe4207ef4d",
-      "title": "Test Quiz",
-      "desc": "This is a test Quiz",
-      "questions": [
-        {
-          "id": "53def283-4c89-4646-a30b-92ac6bfe2f56",
-          "title": "QUestion 1",
-          "type": "Multi Select",
-          "options": [
-            {
-              "id": 1679057154121,
-              "value": "Opion 1",
+              "id": 1679334985256,
+              "value": "Orissa",
               "isCorrect": false
             },
             {
-              "id": 1679057157985,
-              "value": "op2",
-              "isCorrect": false
-            },
-            {
-              "id": 1679057160900,
-              "value": "op4",
-              "isCorrect": false
-            },
-            {
-              "id": 1679057165095,
-              "value": "op5",
+              "id": 1679334987814,
+              "value": "Telangana",
               "isCorrect": true
             }
           ],
           "correctAnswers": [
-            "op5"
+            "Kerala",
+            "Telangana"
+          ]
+        },
+        {
+          "id": "12d62855-2aa3-4987-9848-c5ef39d50150",
+          "title": "Largest Coffee Producing state in India",
+          "type": "Dropdown",
+          "options": [
+            {
+              "id": 1679334929446,
+              "value": "Kerala",
+              "isCorrect": false
+            },
+            {
+              "id": 1679334932752,
+              "value": "Karnataka",
+              "isCorrect": true
+            },
+            {
+              "id": 1679334936332,
+              "value": "Tamil Nadu",
+              "isCorrect": false
+            },
+            {
+              "id": 1679334941842,
+              "value": "Delhi",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswers": [
+            "Karnataka"
+          ]
+        },
+        {
+          "id": "1bd55795-d38c-4959-9d19-79bc5d00b200",
+          "title": "What are the major languages spoken in Andhra Pradesh",
+          "type": "Multi Select",
+          "options": [
+            {
+              "id": 1679334866497,
+              "value": "Telugu",
+              "isCorrect": true
+            },
+            {
+              "id": 1679334870340,
+              "value": "Urdu",
+              "isCorrect": true
+            },
+            {
+              "id": 1679334873665,
+              "value": "Kannada",
+              "isCorrect": false
+            },
+            {
+              "id": 1679334878542,
+              "value": "Malayalam",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswers": [
+            "Telugu",
+            "Urdu"
+          ]
+        },
+        {
+          "id": "ae31e25c-4a26-4ab8-8af9-e24da535dffa",
+          "title": "India is a federal union comprising twenty-eight states and how many union territories?",
+          "type": "Single Select",
+          "options": [
+            {
+              "id": 1679334745969,
+              "value": "6",
+              "isCorrect": false
+            },
+            {
+              "id": 1679334749709,
+              "value": "7",
+              "isCorrect": false
+            },
+            {
+              "id": 1679334751975,
+              "value": "8",
+              "isCorrect": true
+            },
+            {
+              "id": 1679334755200,
+              "value": "9",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswers": [
+            "8"
+          ]
+        }
+      ],
+      "correctAnswers": [
+        {
+          "id": "7ca709a8-3a3b-402f-8675-e8adfed3213a",
+          "correctAnswers": [
+            "Kerala",
+            "Telangana"
+          ]
+        },
+        {
+          "id": "12d62855-2aa3-4987-9848-c5ef39d50150",
+          "correctAnswers": [
+            "Karnataka"
+          ]
+        },
+        {
+          "id": "1bd55795-d38c-4959-9d19-79bc5d00b200",
+          "correctAnswers": [
+            "Telugu",
+            "Urdu"
+          ]
+        },
+        {
+          "id": "ae31e25c-4a26-4ab8-8af9-e24da535dffa",
+          "correctAnswers": [
+            "8"
           ]
         }
       ]
